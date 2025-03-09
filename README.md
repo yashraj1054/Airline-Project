@@ -3,5 +3,5 @@ Technologies Used:- 1. Programming languages : Java
                     2. Liberaries : Java Swing
                     3. Database Connectivity : JDBC
                     4. Database : MySQL
-                    IDE : NetBeans
+                    5. IDE : NetBeans
 
